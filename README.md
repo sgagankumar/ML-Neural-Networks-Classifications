@@ -1,12 +1,12 @@
-# [Neural-Networks-Classifications](https://sgagankumar.github.io/Neural-Networks-Classifications/)
+# [Neural-Networks-Classifications](https://sgagankumar.github.io/ML-Neural-Networks-Classifications/)
 
 ## Introduction
 Project which shows various methods that can be used for classification of simple datasets, using various type of generic machine learning models such as :
-1. [Single Perceptron Classification](https://github.com/sgagankumar/Neural-Networks-Classifications/blob/master/Perceptron.ipynb)
-2. [Multiple Perceptron Classification](https://github.com/sgagankumar/Neural-Networks-Classifications/blob/master/Multiclass.ipynb)
-3. [Multiple Perceptron Multiple Classes Classification](https://github.com/sgagankumar/Neural-Networks-Classifications/blob/master/Multiclass2.ipynb)
-4. [Logistic Regression](https://github.com/sgagankumar/Neural-Networks-Classifications/blob/master/Logistic%20Regression.ipynb)
-5. [Deep Neural Networks](https://github.com/sgagankumar/Neural-Networks-Classifications/blob/master/DeepNeuralNetwork.ipynb)
+1. [Single Perceptron Classification](https://github.com/sgagankumar/ML-Neural-Networks-Classifications/blob/master/Perceptron.ipynb)
+2. [Multiple Perceptron Classification](https://github.com/sgagankumar/ML-Neural-Networks-Classifications/blob/master/Multiclass.ipynb)
+3. [Multiple Perceptron Multiple Classes Classification](https://github.com/sgagankumarML-Neural-Networks-Classifications/blob/master/Multiclass2.ipynb)
+4. [Logistic Regression](https://github.com/sgagankumar/ML-Neural-Networks-Classifications/blob/master/Logistic%20Regression.ipynb)
+5. [Deep Neural Networks](https://github.com/sgagankumar/ML-Neural-Networks-Classifications/blob/master/DeepNeuralNetwork.ipynb)
 
 ### Usage
 Download the python notebook file and open it with Jupyter Notebook or [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb).
